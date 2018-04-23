@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\bin\Debug\config.txt
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\bin\Debug\CopyDirectories.exe.config
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\bin\Debug\CopyDirectories.exe
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\bin\Debug\CopyDirectories.pdb
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\obj\Debug\CopyDirectories.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\obj\Debug\CopyDirectories.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\obj\Debug\CopyDirectories.exe
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\obj\Debug\CopyDirectories.pdb
+C:\Users\User\source\repos\CopyDirectories\CopyDirectories\bin\Debug\MediaToolkit.dll
