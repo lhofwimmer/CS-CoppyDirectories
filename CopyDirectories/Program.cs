@@ -13,10 +13,11 @@ namespace CopyDirectories
 {
     class Program
     {
-        void Main(string[] args)
+        static void Main(string[] args)
         {
             //line 1: source path
             //line 2: destination path
+            //line 3: target type
             var config = File.ReadAllLines(Environment.CurrentDirectory + "\\config.txt");
             foreach (var item in config)
             {
@@ -50,8 +51,8 @@ namespace CopyDirectories
                         var inputFile = dirPath;
 
                         //Construct path for new File
-                        var outputFile = dirPath.Replace("Music", "CompressedMusic");
-                        outputFile = outputFile.Replace($".{item}", ".mp3");
+                        var outputFile = dirPath.Replace(config[0], config[1]);
+                        outputFile = outputFile.Replace($".{item}", config[2]);
                         //Construct path end
 
                         Console.WriteLine($"Now Processing {dirPath}");
